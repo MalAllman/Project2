@@ -1,0 +1,133 @@
+*{
+	box-sizing: border-box; 
+	/* This makes the widths of elements more consistent
+		Full details here https://css-tricks.com/box-sizing/ */
+}
+
+body{
+	margin: 0px; 
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: rgb(223,227,238);
+}
+
+
+nav{
+	width: 200%;
+	height: 65px;
+	margin-top: -33px;
+}
+
+header{
+	background-color: #3b5998;
+}
+
+h1{
+	font-size: 2.5em;
+	font-weight: 1em;
+	text-align: left;
+	text-indent: 175px;
+}
+
+h2{
+	font-size: 1em;
+	font-weight: 0.2em;
+	text-align: left;
+	text-indent: 175px;
+	margin-top: -35px;
+}
+
+p{
+	font-size: 1.1em;
+	font-weight: 0.1em;
+	text-align: right;
+	text-indent: 175px;
+	margin-right: 175px;
+}
+
+h3{
+	font-size: 2.5em;
+	font-weight: 0.5em;
+	text-indent: -100px;
+	text-align: right;
+}
+ 
+h4{
+	font-size: 1.1em;
+	font-weight: 0.5em;
+	text-align: right;
+	margin-left: 700px;
+	margin-right: 200px;
+	background-color: rgb(247,247,247);
+}
+  
+h5{
+	font-size: 1.1em;
+	font-weight: 0.5em;
+	text-align: right;
+	margin-left: 700px;
+	margin-right: 420px;
+	margin-top: -350px;
+	background-color: rgb(247,247,247);
+}
+
+h6{
+	background-color: rgb(247,247,247);
+	font-size: 1.1em;
+	font-weight: 0.5em;
+	text-align: right;
+	margin-left: 950px;
+	margin-right: 200px;
+	margin-top: -59px;
+	
+}
+
+.profiles{ 
+	position: relative;
+    top: -150px;
+    left: 110px;
+}
+
+.recent{
+	position: relative;
+	top: -10px;
+}
+
+.signup{
+	position: relative;
+	top: -125px;
+	left: -250px;
+	padding-bottom: 50px;
+}
+
+.itsfree{
+	position: relative;
+	top: -10px;
+	left: 775px;
+}
+
+.login{
+
+	position: relative;
+	top: -340px;
+	left: 975px;
+    
+}
+
+
+.password{
+
+	position: relative;
+	top: -363px;
+	left: 1100px;
+}
+
+.Terms{
+	font-size: 7px;
+
+
+}
+
+.Login1{
+	float: left;
+	margin-left: 10px;
+}
